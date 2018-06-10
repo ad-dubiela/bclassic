@@ -215,7 +215,7 @@ header.masthead p {
 }
 
 /** Header Info Box **/
-.col-lg-4 .desc-box, .col-md-6 .desc-box, .col-8 .desc-box{
+.col-lg-4 .col-md-6 .col-8 .mx-auto .p-3 .desc-box{
   background-color:rgba(0,0,0,0.65);
 }
 
