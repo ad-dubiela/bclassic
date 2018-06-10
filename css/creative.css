@@ -175,7 +175,6 @@ header.masthead {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  filter: blur(200px);
 }
 
 header.masthead hr {
