@@ -316,5 +316,6 @@ header.masthead p {
 }
 
 .about-box{
-  max-width: 600px;
+  max-width: 100%;
+  height:auto;
 }
