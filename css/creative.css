@@ -314,3 +314,7 @@ header.masthead p {
 .desc-box{
   background-color:rgba(0,0,0,0.3) !important;
 }
+
+.about-box{
+  max-width: 600px;
+}
