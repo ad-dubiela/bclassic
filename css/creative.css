@@ -219,6 +219,10 @@ header.masthead p {
   background-color:rgba(0,0,0,0.65);
 }
 
+.arrow-size{
+  font-size:2.5rem;
+}
+
 .service-box {
   max-width: 400px;
 }
@@ -314,6 +318,10 @@ header.masthead p {
 
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(228, 56, 56, 0.5) !important;
+}
+
+.social-buttons {
+  margin-bottom: 0;
 }
 
 ul.social-buttons li a {
