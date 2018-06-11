@@ -220,7 +220,7 @@ header.masthead p {
 }
 
 .arrow-size{
-  font-size:2.5rem;
+  font-size:2.5rem !important;
 }
 
 .service-box {
